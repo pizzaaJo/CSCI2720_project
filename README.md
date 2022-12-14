@@ -1,4 +1,4 @@
-# CSCI2720 Project testing
+# CSCI2720 Project test
 ## How to install
 ```
 npm install
