@@ -1,4 +1,4 @@
-# CSCI2720 Project
+# CSCI2720 Project testing
 ## How to install
 ```
 npm install
@@ -15,4 +15,3 @@ cd src
 ```
 node server.js
 ```
-testing
